@@ -6,7 +6,7 @@ Creating a database in MongoDB using pymongo
 
 - Clone the Repository
 - Create `virtualenv` for Python3 using `virtualenv -p python3 venv`
-- Activate your `virtualenv` using `source venv/bin/activate`(mac) and `source venv/Scripts/activate`
+- Activate your `virtualenv` using `source venv/bin/activate`(mac) and `source venv/Scripts/activate` (window)
 - Once activated, install the requirements
 - `pip install -r requirements.txt`
 - Make sure you have `mongodb` installed on your system
