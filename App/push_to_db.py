@@ -31,5 +31,3 @@ def mongo_data():
         post_id = mongo_collection().insert_one(entries)
 
     return "Done"
-
-mongo_data()
