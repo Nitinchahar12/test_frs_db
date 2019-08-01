@@ -1,0 +1,5 @@
+# - CORE REQUIREMENTS -
+pymongo==3.8.0
+imutils==0.5.2
+hypothesis==4.31.0
+Faker==2.0.0
